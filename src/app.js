@@ -6,7 +6,6 @@ class App extends Component {
     render() {
         return (
             <div>
-                React app
                 <Images/>
             </div>
         )

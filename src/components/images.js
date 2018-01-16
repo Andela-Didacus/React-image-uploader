@@ -66,7 +66,7 @@ class Images extends Component {
         });
         return (
             <div>
-                Images Component
+                Basic Images Uploader Application
                 <Dropzone onDrop={this.uploadFile.bind(this)}/>
                 <br/>
                 <ol>
